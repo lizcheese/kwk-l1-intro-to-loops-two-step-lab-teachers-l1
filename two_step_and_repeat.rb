@@ -26,7 +26,7 @@ end
 
 def how_many_steps?
   # Write a loop that fulfills all criteria from Part 3 of the README.md
-  steps = 0
+  steps = 6
     if steps%2 == 0 then puts "Left"
     elsif puts "Right"
     end
